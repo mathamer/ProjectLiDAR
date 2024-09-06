@@ -26,5 +26,6 @@ Nositelj: doc. dr. sc. **[Nikola Tanković](https://www.notion.so/Kontakt-strani
 
 Pokretanje porojekta u cloud compare-u:
 
-1. Otvoriti CloudCompare
-2. Otvoriti datoteku priloženu u repozitoriju
+1. Unzipati datoteku `ProjektLiDAR.zip`
+2. Otvoriti CloudCompare
+3. Otvoriti file koji je prethodno unzipan
